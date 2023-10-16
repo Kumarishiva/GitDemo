@@ -8,5 +8,8 @@ public class farToCel {
 		double cel = (5*(fah-32.0)/9);
 		
 		System.out.println("Celsius value =" + cel);
+		System.out.println("Celsius value01 =" + cel);
+		System.out.println("Celsius value02 =" + cel);
+		
 	}
 }
